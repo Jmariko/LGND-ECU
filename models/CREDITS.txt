@@ -1,0 +1,46 @@
+3D car models used in LGND DYNO, all from Sketchfab. Each model keeps its own license.
+"Simplified" means: triangle count reduced, textures resized and recompressed (WebP),
+re-encoded with meshopt compression.
+
+evo9.glb  (used for Evo VIII, Evo IX and the 2.3L stroker build)
+  "Mitsubushi Lancer EVO IX Widebody" by blakebella - CC BY 4.0 - simplified
+  https://sketchfab.com/3d-models/mitsubushi-lancer-evo-ix-widebody-557eb82f542743e3bf0d55dcea564547
+evo10.glb
+  "TEAM ORANGE Mitsubishi Lancer Evolution X" by ilvskf - CC BY 4.0 - simplified
+  https://sketchfab.com/3d-models/team-orange-mitsubishi-lancer-evolution-x-07d3e20a3da4431393417d801ee8aeea
+dsm.glb
+  "1999 Mitsubishi Eclipse GSX" by Ddiaz Design - CC BY-NC-SA 4.0 - simplified (this adapted file is shared under CC BY-NC-SA 4.0)
+  https://sketchfab.com/3d-models/1999-mitsubishi-eclipse-gsx-38ea726a6aae496981069cdfdb140adc
+rb26.glb
+  "GTR-r34" by ARjun.JS - CC BY 4.0 - simplified, ground plane removed
+  https://sketchfab.com/3d-models/gtr-r34-f040d64eefbb41fc9766aef2fd1f0f0a
+r35.glb
+  "Nissan Aimgain GT R35 Type2" by vecarz - CC BY 4.0 - simplified
+  https://sketchfab.com/3d-models/nissan-aimgain-gt-r35-type2-77456704dc1b4d299a23fecdf341003c
+s15.glb
+  "Nissan S15 Drift [FREE]" by autoNgraphic - CC BY 4.0 - simplified
+  https://sketchfab.com/3d-models/nissan-s15-drift-free-18348c1698f74d9db1497a791bd21a2f
+c6.glb
+  "2012 Chevrolet Corvette C6 ZR1" by OUTPISTON - CC BY-NC-SA 4.0 - simplified (shared under CC BY-NC-SA 4.0)
+  https://sketchfab.com/3d-models/2012-chevrolet-corvette-c6-zr1-149cab111ae341b890f2250121741b75
+sti.glb
+  "2018 Subaru WRX STI" by Ddiaz Design - CC BY-NC-SA 4.0 - simplified (shared under CC BY-NC-SA 4.0)
+  https://sketchfab.com/3d-models/2018-subaru-wrx-sti-96a423cba0ff4a7f82aee9d885abb9af
+n54.glb
+  "BMW 335i" by RPMRender - Sketchfab Standard license - simplified
+  https://sketchfab.com/3d-models/bmw-335i-62d0fc56b64847f5a6ad7c77d16cd999
+k24.glb
+  "2010 Acura TSX" by OUTPISTON - CC BY-NC-SA 4.0 - recompressed (shared under CC BY-NC-SA 4.0)
+  https://sketchfab.com/3d-models/2010-acura-tsx-e19491d9e6834fbcb1a871333c8b84d9
+k20.glb
+  "2015 J's Racing Type S Acura RSX DC5" by Ddiaz Design - CC BY-NC-SA 4.0 - recompressed (shared under CC BY-NC-SA 4.0)
+  https://sketchfab.com/3d-models/2015-js-racing-type-s-acura-rsx-dc5-08fa3e7729a04640897614a86243a274
+a90.glb
+  "Toyota GR Supra" by thelightning - CC BY 4.0 - simplified
+  https://sketchfab.com/3d-models/toyota-gr-supra-9231f2d5e71a43dd87603dc0b339d99d
+fd.glb
+  "Rx7 AKI Kimura Drift | www.vecarz.com" by vecarz - CC BY-NC-SA 4.0 - simplified (shared under CC BY-NC-SA 4.0)
+  https://sketchfab.com/3d-models/rx7-aki-kimura-drift-wwwvecarzcom-2826e099a73645f88124a84c22ae7560
+jz.glb
+  "1993 Toyota Supra Turbo MK IV Versus 2F2F" by Ddiaz Design - CC BY-NC-SA 4.0 - simplified (shared under CC BY-NC-SA 4.0)
+  https://sketchfab.com/3d-models/1993-toyota-supra-turbo-mk-iv-versus-2f2f-cf54b195d7314a61aba4f94a4ffcf6c8
